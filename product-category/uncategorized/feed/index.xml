@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; wordpress</title>
-	<atom:link href="/product-category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/test-wordpress-static/product-category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/test-wordpress-static/</link>
 	<description></description>
 	<lastBuildDate>Sat, 13 Jan 2024 12:22:03 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,18 +24,18 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>test product</title>
-		<link>/product/test-product/</link>
-					<comments>/product/test-product/#respond</comments>
+		<link>/test-wordpress-static/product/test-product/</link>
+					<comments>/test-wordpress-static/product/test-product/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Sat, 13 Jan 2024 12:21:48 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=product#038;p=17</guid>
+				<guid isPermaLink="false">/test-wordpress-static/?post_type=product#038;p=17</guid>
 
 					<description><![CDATA[test]]></description>
 										<content:encoded><![CDATA[<p>test</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/product/test-product/feed/</wfw:commentRss>
+					<wfw:commentRss>/test-wordpress-static/product/test-product/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

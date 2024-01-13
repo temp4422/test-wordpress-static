@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="/2024/01/13/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>/2024/01/13/hello-world/</link>
+	<atom:link href="/test-wordpress-static/2024/01/13/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>/test-wordpress-static/2024/01/13/hello-world/</link>
 	<description></description>
 	<lastBuildDate>Sat, 13 Jan 2024 12:18:37 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,16 +23,16 @@
 	<item>
 		<title>
 		By: user2		</title>
-		<link>/2024/01/13/hello-world/#comment-3</link>
+		<link>/test-wordpress-static/2024/01/13/hello-world/#comment-3</link>
 
 		<dc:creator><![CDATA[user2]]></dc:creator>
 		<pubDate>Sat, 13 Jan 2024 12:18:37 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1#comment-3</guid>
+		<guid isPermaLink="false">/test-wordpress-static/?p=1#comment-3</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;/2024/01/13/hello-world/#comment-2&quot;&gt;user&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;/test-wordpress-static/2024/01/13/hello-world/#comment-2&quot;&gt;user&lt;/a&gt;.
 
 well]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="/2024/01/13/hello-world/#comment-2">user</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/test-wordpress-static/2024/01/13/hello-world/#comment-2">user</a>.</p>
 <p>well</p>
 ]]></content:encoded>
 		
@@ -40,11 +40,11 @@ well]]></description>
 		<item>
 		<title>
 		By: user		</title>
-		<link>/2024/01/13/hello-world/#comment-2</link>
+		<link>/test-wordpress-static/2024/01/13/hello-world/#comment-2</link>
 
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Sat, 13 Jan 2024 12:17:36 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1#comment-2</guid>
+		<guid isPermaLink="false">/test-wordpress-static/?p=1#comment-2</guid>
 
 					<description><![CDATA[test comment]]></description>
 			<content:encoded><![CDATA[<p>test comment</p>
@@ -54,11 +54,11 @@ well]]></description>
 		<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>/2024/01/13/hello-world/#comment-1</link>
+		<link>/test-wordpress-static/2024/01/13/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sat, 13 Jan 2024 12:14:55 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1#comment-1</guid>
+		<guid isPermaLink="false">/test-wordpress-static/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.

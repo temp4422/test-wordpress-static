@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: Sample Page	</title>
-	<atom:link href="/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/test-wordpress-static/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>/test-wordpress-static/</link>
 	<description></description>
 	<lastBuildDate>Sat, 13 Jan 2024 12:14:55 +0000</lastBuildDate>
 	<sy:updatePeriod>
